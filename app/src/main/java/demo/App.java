@@ -3,6 +3,9 @@
  */
 package demo;
 
+/**
+ * Returns a greeting.
+ */
 public class App {
     public String getGreeting() {
         return "Hello again, World!";
